@@ -1,6 +1,14 @@
-# 👋 Hi, I'm a DevOps Engineer
+# 👋 Hi, I'm Yash — DevOps Engineer
 
-I specialize in infrastructure automation, cloud-native technologies, and building reliable systems at scale. I enjoy working with containers, IaC tools, and CI/CD pipelines to improve delivery speed and system resilience.
+4+ years building and automating cloud infrastructure on AWS and Azure. I specialize in Kubernetes, Terraform, and GitOps, with a focus on making deployments faster and more reliable.
+
+## 🏆 Highlights
+
+- ⚙️ Run Kubernetes for **25+ microservices** across production and non-production environments
+- 🚀 Migrated **30+ Jenkins jobs** to Azure DevOps pipelines, cutting deployment effort by **~50%**
+- 🧩 Built reusable Terraform modules and pipeline templates used across **20+ services**
+- 📊 Deployed Prometheus, Grafana, and EFK for monitoring, alerting, and centralized logging
+- 🤖 Use AI tools, including Azure MCP and AKS MCP, to speed up IaC development and infra reviews
 
 ## 🛠️ Tools & Technologies
 
@@ -20,17 +28,14 @@ I specialize in infrastructure automation, cloud-native technologies, and buildi
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) 
 - ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)
 
-## 💡 What I Enjoy
+## 🎓 Certifications
 
-- Writing Infrastructure as Code (IaC)  
-- Automating daily tasks and workflows  
-- Managing containerized environments  
-- Setting up monitoring and alerting systems  
-- Building CI/CD pipelines that just work
+- Certified Kubernetes Administrator (CKA)
+- AWS Certified Developer Associate
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/yash-rege-45122014b/)
 
 ---
 
